@@ -35,3 +35,14 @@ public class Arrays {
         System.out.println(arrayDeString.length); // 10
     }
 }
+
+// Há diferentes formas de se instanciar um array em Java:
+
+// Primeira forma
+//String[] arrayDeEstudantes = { "MARCOS", "ALINE", "LUCAS", "PATRICIA" };
+////Segunda forma
+//int[] arrayDeInteiros = new int[9];
+//arrayDeInteiros[0] = 0;
+//arrayDeInteiros[1] = 1;
+////...
+//arrayDeInteiros[8] = 8;
