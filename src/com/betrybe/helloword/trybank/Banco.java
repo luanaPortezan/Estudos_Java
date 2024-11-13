@@ -1,4 +1,4 @@
-package com.betrybe.trybank;
+package com.betrybe.helloword.trybank;
 
 public class Banco {
     public static void main(String[] args) {

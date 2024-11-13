@@ -1,4 +1,4 @@
-package com.betrybe.helloword;
+package com.betrybe.helloword.ControleDeFluxoeEntradaDeDados;
 
 //A classe wrapper nada mais é que uma classe que nos permite usar os tipos primitivos como objetos. Uma das maiores vantagens de usar os objetos dos tipos primitivos, providos pelas classes wrapper, é o acesso a diversos métodos que são disponibilizados para eles.
 

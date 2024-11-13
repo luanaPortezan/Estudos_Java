@@ -1,4 +1,4 @@
-package com.betrybe.helloword;
+package com.betrybe.helloword.ControleDeFluxoeEntradaDeDados;
 
 public class While {
     public static void main(String[] args) {

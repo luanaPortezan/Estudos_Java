@@ -1,4 +1,4 @@
-package com.betrybe.helloword;
+package com.betrybe.helloword.classesetiposdedados;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.betrybe.helloword;
+package com.betrybe.helloword.ControleDeFluxoeEntradaDeDados;
 
 import java.util.Scanner;
 

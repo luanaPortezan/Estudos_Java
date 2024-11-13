@@ -1,4 +1,4 @@
-package com.betrybe.trybank;
+package com.betrybe.helloword.trybank;
 
 public class ContaBancaria {
 //    double saldo = 0;
